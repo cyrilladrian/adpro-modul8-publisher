@@ -1,0 +1,5 @@
+C:\Users\Sonnie\Documents\File Cyrill\CODING PROJECTS\CODE @ COLLEGE\ADPROG\Publisher - Adpro Module 8\publisher\target\debug\deps\libfutures-7bcaae1022ae0860.rmeta: C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-0.3.30\src\lib.rs
+
+C:\Users\Sonnie\Documents\File Cyrill\CODING PROJECTS\CODE @ COLLEGE\ADPROG\Publisher - Adpro Module 8\publisher\target\debug\deps\futures-7bcaae1022ae0860.d: C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-0.3.30\src\lib.rs
+
+C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-0.3.30\src\lib.rs:

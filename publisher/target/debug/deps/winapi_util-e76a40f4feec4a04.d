@@ -1,0 +1,9 @@
+C:\Users\Sonnie\Documents\File Cyrill\CODING PROJECTS\CODE @ COLLEGE\ADPROG\Publisher - Adpro Module 8\publisher\target\debug\deps\libwinapi_util-e76a40f4feec4a04.rmeta: C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\lib.rs C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\console.rs C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\file.rs C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\sysinfo.rs C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\win.rs
+
+C:\Users\Sonnie\Documents\File Cyrill\CODING PROJECTS\CODE @ COLLEGE\ADPROG\Publisher - Adpro Module 8\publisher\target\debug\deps\winapi_util-e76a40f4feec4a04.d: C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\lib.rs C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\console.rs C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\file.rs C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\sysinfo.rs C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\win.rs
+
+C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\lib.rs:
+C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\console.rs:
+C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\file.rs:
+C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\sysinfo.rs:
+C:\Users\Sonnie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.7\src\win.rs:
