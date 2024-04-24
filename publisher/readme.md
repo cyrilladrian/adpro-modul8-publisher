@@ -6,3 +6,9 @@ The URL "amqp://guest:guest@localhost:5672" in both the publisher and subscriber
 
 ## Running RabbitMQ as message broker
 ![alt text](image.png)
+
+## Sending and processing event 
+![alt text](image-1.png)
+
+## Monitoring chart based on publisher
+![alt text](image-2.png)
